@@ -13,7 +13,7 @@ import { InputTextModule } from 'primeng/components/inputtext/inputtext';
 import { DataTableModule } from 'primeng/components/datatable/datatable';
 import { InputTextareaModule } from 'primeng/components/inputtextarea/inputtextarea';
 import { CalendarModule } from 'primeng/components/calendar/calendar';
-import { SelectButtonModule } from 'primeng/components/selectButton/selectButton';
+import { SelectButtonModule } from 'primeng/components/selectbutton/selectbutton';
 import { DropdownModule } from 'primeng/components/dropdown/dropdown';
 import { InputMaskModule } from 'primeng/components/inputmask/inputmask';
 import { CurrencyMaskModule } from 'ng2-currency-mask';
