@@ -29,8 +29,7 @@ export class NavbarComponent {
     this.logoutService.logout()
     .then(() => {
       this.router.navigate(['/login']);
-    }).catch(erro =>
-      this.handler.handle(erro)
+    }).catch(erro => this.handler.handle(erro)
     );
   }
 
